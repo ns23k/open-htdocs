@@ -1,7 +1,7 @@
 from os import path
 import os
 import time
-
+# ik it's a really inefficient code but it's simple
 
 _ = None
 print("finding xampp.....")
